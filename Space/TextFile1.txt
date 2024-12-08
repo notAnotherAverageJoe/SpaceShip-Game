@@ -1,0 +1,4 @@
+﻿Add monetary system
+try and make hero class accept a pilot and ship to package them together -DONE
+implement the directional quests inside GrandQuest, I will likely create new classes for each 
+	direction.
